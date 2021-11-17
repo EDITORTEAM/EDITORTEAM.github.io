@@ -1,7 +1,5 @@
-<style>
-</style>
-<script src=""></script>
-</title>
+
+<title></title>
 	<style>
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
