@@ -11,8 +11,7 @@
 background-image: url(http://www.transparenttextures.com/patterns/wood-pattern.png);
             width: 80px;
             height: 30px;
-            overflow-y: auto;
-            overflow-x: hidden;
+            
             margin: 10px 0px 10px 6px;
             border: 8px inset #663202;
          box-shadow: 10px 10px #dbdbdb;
