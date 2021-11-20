@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html style="background-color: #fff3e0">
+<head>
+	
+	<title>	TeacherSuEditor Team
+
+
+
+<script src=""></script>
+</title>
+	<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  h4{background-color: #ebebeb}
+
+  a:link {color: blue}
+  a:visited {color: #486bb8}
+  a:hover {color: silver}
+	
+
+
+  
+  .box {background-color: #bd6833;
+background-image: url(http://www.transparenttextures.com/patterns/wood-pattern.png);
+            
+            width: 200px;
+            height: 60px;
+            margin: 20px 0px 10px 60px;
+            border: 15px inset #663202;
+    box-shadow: 10px 10px #dbdbdb;
+
+         font-family: Bebas Neue;
+         text-align: center;
+         text-shadow: 1px 1px #d9d9d9;
+
+         text-align: center;
+       font-size: 30px;
+              align-content: center;
+cursor: pointer;
+}
+  
+
+          #Sample {float: right;
+          	border: 15px ridge rgb(204,204, 204);
+          	position: absolute;
+          	top: 400px;
+          	right: 100px;
+          	
+          }
+
+#heading { width: 30px; 
+	text-shadow: 6px 6px #d9d9d9;
+text-align: center;}
+
+
+    .head  {background-color: #bf9575
+; /* Green */
+  border: 2px solid #4f2708;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  cursor: pointer;
+  float: left;
+}
+ 
+
+ #block {cursor: not-allowed;}
+
+<...........................facebook..................>
+ 
+ 		.heads  {background-color: #bf9575
+; /* Green */
+  height: 210px;
+width: 100px;
+box-shadow: 10px 10px #e8e8e8;
+}
+
+
+img {
+  width: 100px;
+  height: 180px;
+  background: red;
+  transition: width 2s;
+  float: right;
+          	
+          	position: absolute;
+          	top: 0px;
+          	right: 100px;
+}
+
+
+img:hover {
+ height: 300px;
+  transition-property: width;
+  
+  transition: width 2s;
+  transition-duration: 2s;
+  }
+          
+</style>
+<!--<style> 
+p{text-shadow: 200px 20px 30px blue;}</style>-->
+
+
+</head>
+<body>
+
+	<ul >
+  <li class="head"; type="button"><a id="block" href="file:///C:/Users/Dell/Desktop/Webdev/css.html">Home</a></li>
+  <li class="head"; type="button"><a href="#news">News</a></li>
+  <li class="head"; type="button"><a href="#contact">Contact</a></li>
+  <li class="head"; type="button"><a href="#about">About</a></li>
+  <li class="head"; type="button"><a href="#about">FAQ</a></li>
+</ul>
+
+<br/>
+<br/><br/><br/><br/>
+
+<center><img src="trsu.png" style="height: 56px; width: 56px;"></center>
+<center><p7 id="heading"><span style="color: red; font-size: 90px;"> Teacher</span><span style="color: darkblue; font-size: 90px;"> Su</span></p7>
+</center>
+
+
+
+<hr style="height: 8px; color: brown" />
+
+<a target="_blank" href="http://library.teachersucenter.com/">Library</a>
+
+
+<!--OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO-->
+<img id="Sample" style="width: 550px; height: 1100px;" src="https://lh3.googleusercontent.com/7NAnhH9ol0QSZPGIYJQXiMdoPHVlRwmB5CV5qL_giBkGClwPvlIK6F48LsH4hbpzeCdW5rs1TG4bLPV5vYFjaFsej0j5DGU556bVJ_T3ohJMKQ_1NHkeWeTT5dHQ_T8GiCIvJRzISTLKAy0JLSJZH2OpjfnT5cQiBj0k7BuvT2ivTBRP3fzGLO-WCnOVsTeB_gsN8KHFEKxyUvAIr5iuvSFqX8V92QPMU0XpI5xWel_h3urB-kZ_U-Xp9A0y5m42RAtcTPwOTHPEeX5AwDFLmYbXjP0jZ2t3aOIVGdwCpOxuNRpi0RGZbpg57jSuEZRGDOTl6_F83FteA97x5O_MCBmwlo25FSBwQ_MvjMvAfmpKUntqsNs3qp2NfGEzUJDCqlZcLF3JKe2Nt-gziKHbbKfxotwedynrGaFwH875ln50GnnsZFwb_RAnsQwKIQTxMB6w-b_soNTAOecrLDaQ-2Q5nES3CGSkDrlnFeUUcHucWY1TgG3Q0DcKj2dsAF79dX3crT5wZ4tMyo8UJHkCG5fBpd8Ji6WHoMYJ_nOOC0qNTJRkIRTqKTFMVhVBjYrkdZba3OWg34katu_UZASd17lTy-uq5EpNfEzZJIF_7QUmEgKow9TzaHoEMmDBGK-Ewg1fIvpCaz_DkAEeL9BHROYEokwNvnC2UCiyyZKYfgqXnh7LeEs2GzCy8VwtoYB9dVG1LvfInkJxLS9GX340i3o=w340-h870-no?authuser=0">
+
+
+
+<p id="name">
+	<p class="box">
+<p2><a>Starters</p2></p>
+<br/>
+
+<p class="box">
+	<p2><a href="https://www.w3schools.com/spaces/" ;type="button">Movers</p2></a></p>
+<br/>
+
+<p class="box">
+<p2><a href="https://zoom.us/" ;type="button">Flyers</p2></a></p>
+<br/>
+
+<p class="box">
+<p2>KET</p2></p>
+<br/>
+
+<p class="box">
+<p2>PET</p2></p>
+<br/>
+
+<p class="box">
+<p2>FCE</p2></p>
+<br/>
+
+
+<p class="box">
+<p2>CAE</p2></p>
+<br/>
+
+<p class="box">
+<p2>CPE</p2></p>
+<br/>
+
+<p class="box">
+<p2>IELTS</p2></p>
+<br/>
+
+<p class="box">
+<p2>DUOLINGO</p2></p>
+
+
+
+
+</p>
+
+
+
+
+
+
+
+
+<p type="button"><a href="https://www.facebook.com/Teacher-Su-270139473932097"><img class="heads"; src="https://lh3.googleusercontent.com/OXToUkCmKNP-AffCydDSwhjTo46qt77ZsrpjYi4Is2KHcZPzyd95J_PRaTjpHqIannsZKRrADVluS2N1AB--cbkCJin_v59GSjBoBDbNAbwpFk_ukUhh-G_2K7ltazGPV8ollhf4kvDTr73IXWgKhFLCp4sFAso9CGiART5btVbznnw6otqlCTi0pctMoKDUDMlRNR5_uXLSkzSorerPXE4B_VV1kJ52ZHPJ6WHjis8pqwzROsgCEEMviDWRsM2QNVRfT4SCqOaM_YJnFrt6qy4SiKd75BO4kJSFvpSVvh1591xueDGCljGXAzu6sFrS99-fbltbTdwYyYzkM6mJI6Xcv6xn_mEoU8s8aGhxQqtgJejIEq9JTZyRUrtDuwVyciFvXP-tClTiY_qlG9GaGbML1aTI5xUDLhcN2dhwWPqkqm2qOf4QMXiJQEmWu1jSmN98F9QKF36KlNXKx3uu2mJLYsPPIRHpbRAjkX7LWWVsEHL8WYi73iQhDgoh0qwrC7mf6fHUzw0qPDPvIA6OF5K1XTgiFDaKZK7wZ5eNw_FQyjqNq4_bIKmf2gSsvb_mfRNlDfJgM3arFx8tN4YxyxMjVYoT7ncb8kFa1oQM10owNpPLoBjodehFC10Bsly5osqRUcq1YJzKi0uNXOvsIvNa9UfKhA2qdm2pJhN1maSmiFI79ZWPB0Oq-2fPSWIoZNXGWi0FQsheYft0mnmKMk8=w363-h870-no?authuser=0"></a></p>
+
+
+
+
+
+
+
+
+</html>
